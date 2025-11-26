@@ -1,5 +1,8 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-## Hi there 👋
+
+## Profile
+📞 **Email** | bsw030722@gmail.com <br />
+✉ **Phone** | 010-7720-3722
 
 <!--
 **Seungwon32/Seungwon32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
