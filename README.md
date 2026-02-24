@@ -4,6 +4,10 @@
 📞 **Email** | bsw030722@gmail.com <br />
 ✉ **Phone** | 010-7720-3722
 
+## Project - 리싸이쿨
+🎨 Figma에 보기  
+👉 [Figma에서 확인하기](https://www.figma.com/design/eddXvnNqZGTeAzBAjma5Cc/%EB%A6%AC%EC%8B%B8%EC%9D%B4%EC%BF%A8?t=zdrRNFI3FTN1lReP-1)
+
 <!--
 **Seungwon32/Seungwon32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
