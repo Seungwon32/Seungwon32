@@ -5,7 +5,7 @@
 📞 **Email** | bsw030722@gmail.com <br />
 ✉ **Phone** | 010-7720-3722
 -->
-## Project 1 - webnest
+## Project 1 - Webnest
 👉 [Figma에서 확인하기](https://www.figma.com/design/X5CXpY7PZ4fdWlkgP1esWf/%EC%9B%B9%EB%84%A4%EC%8A%A4%ED%8A%B8?node-id=0-1&t=zdrRNFI3FTN1lReP-1)
 
 ## Project 2 - ReCychool 
